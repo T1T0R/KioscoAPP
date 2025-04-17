@@ -52,5 +52,24 @@ Esta app está enfocada en la **facilidad de uso y rapidez**, ideal para quienes
   <img src="https://github.com/user-attachments/assets/63441360-5624-4e53-9877-e250845fa996" width="600"/>
   <img src="https://github.com/user-attachments/assets/ed25cf3d-3b1c-4ded-b603-6ead123bdb5d" width="600"/>
   <img src="https://github.com/user-attachments/assets/0c68d19f-a738-4385-851e-57537705b2b6" width="600"/>
-  <img src="https://github.com/user-attachments/assets/815787e4-a6ee-4e39-b459-a42be8fd9478" width="600"/>
+  <img src="https://github.com/user-attachments/assets/6fc0b922-2bdf-43d2-ad1d-f30fad1ed89b" width="600"/>
+  <img src="https://github.com/user-attachments/assets/f11ac5bd-6cd5-4d6b-a7cc-06a9c3e3b55d" width="600"/>
+</p>
+
+---
+
+## 📄 Generación de PDF Diario
+
+Al finalizar el día, la aplicación **genera automáticamente un PDF** que contiene:
+
+- El detalle de todos los productos vendidos ese día.
+- El total de ganancia diaria.
+- El producto más vendido.
+
+Este archivo se guarda de manera **local** en la computadora del usuario, con nombre personalizado por fecha y hora.
+
+📎 Ejemplo de PDF generado:  
+[📥 Ventas_2025-04-17_11-11-00.pdf](https://github.com/user-attachments/files/19795959/Ventas_2025-04-17_11-11-00.pdf)
+
+
 </p>
