@@ -1,6 +1,6 @@
 # 🧾 Aplicación de Ventas para Negocios de Barrio
 
-Aplicación de escritorio desarrollada en **C# con Windows Forms** y **SQL Server**, pensada originalmente para una empresa ficticia llamada **La P.O.12**, dedicada a la venta de bebidas, snacks, cigarrillos y productos similares.  
+Aplicación de escritorio desarrollada en **C# con Windows Forms** y **SQL Server**, pensada originalmente para empresas que se dedicadan a la venta de bebidas, snacks, cigarrillos y productos similares.  
 Su estructura es adaptable a cualquier **negocio de barrio o pequeño comercio**.
 
 ---
