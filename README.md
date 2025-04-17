@@ -63,8 +63,8 @@ Esta app está enfocada en la **facilidad de uso y rapidez**, ideal para quienes
 Al finalizar el día, la aplicación **genera automáticamente un PDF** que contiene:
 
 - El detalle de todos los productos vendidos ese día.
-- El total de ganancia diaria.
-- El producto más vendido.
+- Las cantidades vendidas de cada producto
+- El registro de los productos vendidos en ese dia.
 
 Este archivo se guarda de manera **local** en la computadora del usuario, con nombre personalizado por fecha y hora.
 
